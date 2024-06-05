@@ -1,0 +1,16 @@
+ul {
+  background-color: white;
+  box-shadow: 12px 22px 41px rgba(0, 0, 0, 0.17);
+  max-width: 33.75rem;
+  width: 100%;
+  margin-top: 2rem;
+  border-radius: 0.38rem;
+  font-size: 1.12rem;
+  padding: 0;
+  padding-bottom: 1.5rem;
+}
+p {
+  font-size: 1rem;
+  padding: 1.5rem 0 0 1.5rem;
+  color: hsl(235, 19%, 35%);
+}
