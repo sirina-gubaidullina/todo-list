@@ -9,6 +9,6 @@ Live - https://my-to-do-application-new.web.app/
 
 The application has simple features:
 
--Add new todos to the list
--Delete todos from the list
--View the optimal layout for the app depending on their device's screen size
+- Add new todos to the list
+- Delete todos from the list
+- View the optimal layout for the app depending on their device's screen size
